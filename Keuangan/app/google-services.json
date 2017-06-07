@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "238371136178",
+    "firebase_url": "https://uang-semua.firebaseio.com",
+    "project_id": "uang-semua",
+    "storage_bucket": "uang-semua.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238371136178:android:351ba3950fecc853",
+        "android_client_info": {
+          "package_name": "id.co.uang.urusanuang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238371136178-umqnd90gr9ku1mofmrfd7kv9krrrh2rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9o5jEjqXoUMl1r3kKUD7ED4vcPGlp740"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
