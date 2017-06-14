@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 public class Transaction implements Serializable, BaseColumns {
     public static final int PENGELUARAN = 1;
-    public static final int PEMASUKAN = 1;
+    public static final int PEMASUKAN = 2;
 
     private String id;
     private String name;
